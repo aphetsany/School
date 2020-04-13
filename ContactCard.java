@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class ContactCard
+//Reviewed by Austin
 {
 //Austin Phetsany
    public static void main (String[] args)
